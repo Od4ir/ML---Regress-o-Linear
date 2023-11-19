@@ -1,4 +1,4 @@
-# Machine Learning - Regressão-Linear
+# Machine Learning - Regressão Linear
 Implementação de Regressão Linear utilizando Python.
 
 Referências:
