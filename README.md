@@ -15,7 +15,6 @@ __Regressão Linear__ é um tipo de modelo/técnica utilizada no campo de Aprend
 Este repositório conta com:
 - Um JN de explicação teórica sobre Regressão Linear;
 - Um JN com aplicação de um modelo de Regressão Linear em dados sintéticos;
-- Um JN com aplicação de um modelo de Regressão Linear em dados reais;
 
 ## ⚙️ Instalação
 Para clonar este repositório localmente, siga os passos abaixo:
